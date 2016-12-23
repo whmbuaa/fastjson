@@ -1,0 +1,8 @@
+com.alibaba.fastjson
+com.alibaba.fastjson.annotation
+com.alibaba.fastjson.asm
+com.alibaba.fastjson.parser
+com.alibaba.fastjson.parser.deserializer
+com.alibaba.fastjson.serializer
+com.alibaba.fastjson.support.spring
+com.alibaba.fastjson.util
